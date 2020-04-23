@@ -1,0 +1,407 @@
+commit af2f483c6fb73dd9aa537aedb9505ac1a1ae9c1f
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sun Jan 5 19:09:20 2020 +0000
+
+    Final commit to ensure repo is up to date
+
+commit 5c2b73d5ee47f4718fe017d704b5acfce01deab8
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sun Jan 5 18:07:05 2020 +0000
+
+    changed acces modifer of print document
+
+commit 5a0e1d89fe027ea5ff700921d35f6a7bb79bbf39
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sun Jan 5 17:34:16 2020 +0000
+
+    Added additional guidelines to mortgage template class
+
+commit a901579bc0c2e1fed69c8930d3c3f09fe8f2fcce
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sun Jan 5 17:24:34 2020 +0000
+
+    Added classes in relation to template method consists of printer as well as two seperate ways of printing
+
+commit f8e7122a76f9345eb0df24694f5f30ae7e910b94
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sun Jan 5 15:19:25 2020 +0000
+
+     Added unit testing to the strategy pattern tested all possible outcomes
+
+commit 2379d145d709ce0a2ea3804c8a342c69e352cf47
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sun Jan 5 14:05:03 2020 +0000
+
+     introduced an abstract interface that the concrete factory implements
+
+commit 43319d872dace4c33ccafaf18da95669b8405af1
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sun Jan 5 03:13:36 2020 +0000
+
+     added Account Controller method
+
+commit ec938034177320f9d792c410b47fbcee9735642e
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sat Jan 4 20:30:11 2020 +0000
+
+    created branch to house entire apllication
+
+commit f1ec5a04e55197f79876e647c52eef413caab2ca
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sat Jan 4 20:09:46 2020 +0000
+
+    making sure state hold most recent version of the code
+
+commit 68b41312c091521389df182743065731818b4907
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sat Jan 4 19:19:28 2020 +0000
+
+    Small refactoring changes
+
+commit 0758e027dc8dcd88897e0928a0f7356690a53603
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sat Jan 4 03:08:17 2020 +0000
+
+    altered decorator so that the base class is loan as oppossed to loan fixed charges
+
+commit e945c449f68c80f34c4b74ef3f3964a5ab1eb219
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Fri Jan 3 13:18:57 2020 +0000
+
+    Updated persistence xml had to use a different hosted db as the one I was using closed down
+
+commit 27c02a78bee9b2f005df02aac7550843c3a5d591
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Fri Jan 3 05:07:10 2020 +0000
+
+    added both observers to contain references of subject interface
+
+commit 81c23e2c4026f8864be1972686650fcc6d9baf99
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Fri Jan 3 02:50:11 2020 +0000
+
+    changed observers from type ArrayList to type List
+
+commit 0933f579d59c4f2e481f5c2a675f1ef93d5d5f30
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Jan 2 23:55:51 2020 +0000
+
+    Added LongTermLoanGoodCreditRating that provides its own implemnetation of LoanBehaviour
+
+commit 99d74000d14d97e67c71f82477e0d9a19754b3ab
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Jan 2 04:25:40 2020 +0000
+
+    Added account controller which will demonstrate singleton and State pattern. Returns an account JSON object that will reflect the interest rate and current state
+
+commit 8f39e41d88fcfd4f58c6c2b1e14b6d6175e4518a
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Jan 2 04:02:58 2020 +0000
+
+    Added another endpoint for decorater pattern
+
+commit f9a885952d09840ed33ef738e720411ac62ea9e2
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Jan 2 02:05:06 2020 +0000
+
+    added setAccountDetails to all classes to ensure that an account reflected its state and current interestRate
+
+commit 67b562363785c9da4297eb72847178cda58a1f0b
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Jan 2 00:20:35 2020 +0000
+
+    fleshed out the behaviours of the remaining accounts state pattern implemented
+
+commit e2a1fbbf78f0e50d0dd5f42f6e291a2db6392f81
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Jan 2 00:03:36 2020 +0000
+
+    Fleshed out all methods of lowInterestAccount to allow for correct state changes
+
+commit d521ecafebbc26851b966610f699e96f8256f5a2
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Jan 1 23:50:10 2020 +0000
+
+    Fleshed out all methods Of newAccount state
+
+commit 82c04127b1c2e4301b3da48aa320e4f83c9ea1b9
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Jan 1 23:26:12 2020 +0000
+
+    Added a update state method and addInterest to mimic real life accounts
+
+commit df9a6e53ebc130c1fa78ee79c6b1edbc7cf21f53
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Jan 1 23:08:57 2020 +0000
+
+    added references to the state in all method of context class and configured functionality of newAccount
+
+commit 608eea036261e7a3d1148a8896ced7eb5b88716f
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Jan 1 18:47:35 2020 +0000
+
+    has all concrete classes implement AccountState and provided refs to Account context Class
+
+commit dcbacc1c321c805c03200d4679b07b0954db270f
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Jan 1 18:40:37 2020 +0000
+
+    had HighInterestAccount take on method of state
+
+commit 0dcbd8048a9019412ae38ce2d9896c3dd9b300fd
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Jan 1 17:10:24 2020 +0000
+
+    added context object account class
+
+commit 74c21dee459d3d71209f7daeeb7fa952f96166f6
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Jan 1 16:03:40 2020 +0000
+
+    Created four state concrete classes
+
+commit f38eb2b46e26cae70012175fd3466633fab0df99
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Jan 1 15:23:17 2020 +0000
+
+    Created Account State interface to encapsulate methods that the various account states will use
+
+commit 01e79cb4d70e83224546d5a39b56d665dca139dd
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Jan 1 14:53:13 2020 +0000
+
+    refeactored Logging class to allow it be used by a controller created additional expesnses class to return a decorated object
+
+commit 088bf91b149adcfeb4f1329e099bc9f5645eea10
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Jan 1 00:42:04 2020 +0000
+
+    Added error and info logging. Created Loan Controllor. Created endpoint that incorporates Dec and Singleton
+
+commit eabbc272454eb21e97cc3ab249642033035b7135
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Tue Dec 31 22:19:40 2019 +0000
+
+    added singleton Logging and driver class created privat constructor and logging methods
+
+commit 321e5db9f8638cc7bfe7e62402b5f1ed7e1f18b4
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Tue Dec 31 03:04:27 2019 +0000
+
+    added fatory pattern delegated responsibility of instatiating loan behaviour
+
+commit b08a9f188cca3e41c7b2d5e107bb8b78f0a67f51
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Dec 30 21:51:18 2019 +0000
+
+    Added Factory method plus Enums for type safety
+
+commit cfa2d8cdbd29a8ba7e7558cafcf086e151942244
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Dec 30 17:20:07 2019 +0000
+
+    Added enum class and  also created a driver
+
+commit ee8d36c17995b6bfe901c28594b6c9e187c75275
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Dec 30 16:52:45 2019 +0000
+
+    Refactored decorator classes to make them more real world
+
+commit c94c3fe4421a4ff4bbe378ffe38fb4f358a37514
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Dec 30 14:33:49 2019 +0000
+
+    created Loan factory class
+
+commit 69c035a20831b1a7f0e67aa8b0c06656d10bf820
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Dec 30 13:33:19 2019 +0000
+
+    Fixed issue with calculating discounts on customers
+
+commit 46782fca255ae96f7fd58275a862901f6343491a
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Dec 30 13:27:43 2019 +0000
+
+    Finished implementing decorator created Loan fixed charges interface plus Loan Decortaor abstract class and decs
+
+commit e3f719a7ec9de10baaaab8087c73d0ee3472a86e
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Nov 14 00:55:27 2019 +0000
+
+    added the loan decorator plus the loan insurance class as well as the LoanTax class
+
+commit fc7da48847491e7e13575730933d38cd658a88f2
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Nov 13 22:17:07 2019 +0000
+
+    Structuaral changes to application removal of spring boot and completed the observer pattern
+
+commit d2716919a4b89df7d0189426f832dc325f52ebb7
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Fri Oct 11 21:46:52 2019 +0100
+
+    Controller finished and Data Transfer Object created
+
+commit 8846c7b764570ad2b981cd5adb7ad4dffdd39d0f
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Fri Oct 11 18:15:18 2019 +0100
+
+    Git customer dao returning a customer entity
+
+commit 3f00312118a09eb2fb5b978402952aa8d818bd19
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Fri Oct 11 01:35:48 2019 +0100
+
+     added orm mapping tool hibernate added pesistence.xml file added persistent unit which references my entitymanger
+
+commit a2dc5c37f9bdb8d30776ac1b917b5ae67bb6809b
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Oct 10 22:18:40 2019 +0100
+
+    Added Transaction entity
+
+commit fd35920daf05f7e361b40ee50730b96eafdc8cdf
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Oct 10 21:59:23 2019 +0100
+
+    Created Customer Entity
+
+commit 8d4eb3719c155ac20452b457f1f5ceb7f6c92ec7
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Oct 10 21:37:39 2019 +0100
+
+    Added transaction Controller
+
+commit f2114bb076af586063f6666f5e7b3b1d43d015eb
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Oct 10 19:16:43 2019 +0100
+
+    Converted Project to java web application and added spring boot
+
+commit cf41620d87ef9c87aa81c96b3bd8b1e37333c70b
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Tue Oct 8 00:10:20 2019 +0100
+
+    refactered main to search multiple transactions
+
+commit 93d47004727babcbac1dfec8ecb141c6493c47e0
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Oct 7 20:03:51 2019 +0100
+
+    Fixed errors after refcatoring classes
+
+commit ded9f98dd76a04b1d33b8c5c7bd733b553f9a45b
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Oct 7 18:58:18 2019 +0100
+
+    Added extra params to suspicious transaction and updated observer
+
+commit 5ea3c6a38d95ee5cf02481f537a6b70b4c2d350f
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Oct 7 18:28:16 2019 +0100
+
+    refactored transaction data class to be more approiatly named also added mobile and email attributes
+
+commit f342c5975a25be953096853c7cfc4be50a9ae148
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Tue Oct 1 00:11:47 2019 +0100
+
+    created driver for observer pattern
+
+commit 86497b205daaf9e3289fc765d590d66b9cfe6c8f
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Sep 30 22:15:13 2019 +0100
+
+    Added method in transaction class to determine is a transaction is suspicious
+
+commit a8536bc0e621ee1f1a3dd965451a218216eee8d2
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Sep 30 20:40:33 2019 +0100
+
+    Added logging dependencys
+
+commit 1da288ff70bc466de6346f3985419e887fe78bb1
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Mon Sep 30 20:00:20 2019 +0100
+
+    Added SMSNotification Class that implements Observer interface
+
+commit 6f82e32e3deda29d407972d1415da7455f8b6aff
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sat Sep 28 17:51:58 2019 +0100
+
+    refactored email configuration class as well as got email Notification working as an observer
+
+commit 2701e99af15f41a683a1b7667ccaedb721f839bc
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sat Sep 28 13:57:55 2019 +0100
+
+    Added Transaction class and TransactionData class which implements Subject interface
+
+commit ff5b80510dce2e2554bb7f22bb471ff95655f8ae
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Fri Sep 27 19:32:15 2019 +0100
+
+    Added payment class as well as sent message to personal phone
+
+commit adcdea44e0223be2b7a8a66707f51c5b25a961d6
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Sep 26 21:40:49 2019 +0100
+
+    Updated email class
+
+commit 87dcce27862a5ffab8b6ac4d2990af69e5991c85
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Sep 26 21:26:30 2019 +0100
+
+    Added Email Notification and EmailConfiguration class
+
+commit f2523399b7d7719984b9fd8a7820bfb21f0ff132
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Sep 25 23:09:14 2019 +0100
+
+    Added subject and observer interfaces
+
+commit 9dea07759336ec11833ab3bee01fa537599ba2eb
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Sep 25 22:46:58 2019 +0100
+
+    added Customer and Account class in relation to observer
+
+commit cc7309c378acd28e7a9dc26f9ebedb014717654c
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Sep 25 15:41:49 2019 +0100
+
+    Added hibernate jars
+
+commit e89084877cc8fa27c2d3b515baec7f62aacecb85
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Sun Sep 22 20:03:08 2019 +0100
+
+    Code cleaned up
+
+commit c4b38b439def7020bc3ddb8dd6dbdb46c48b491f
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Fri Sep 20 00:09:14 2019 +0100
+
+    Strategy pattern implemented
+
+commit 0c385700699c018b3af2f596293ef700d8526357
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Sep 19 20:34:16 2019 +0100
+
+    added functionality short term Loan
+
+commit c5edf96b84692f6d3aba1faf96e3af0682b362c1
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Thu Sep 19 16:55:49 2019 +0100
+
+    iteration 1 functional loan application system
+
+commit 0ca7d85833176386faf3bbf36b49465fde3c0878
+Author: Markslaw <Shaunalily9@gmail.com>
+Date:   Wed Sep 18 18:39:31 2019 +0100
+
+    initial commit
